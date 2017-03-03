@@ -1,0 +1,30 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Ubuntu,Consolas",
+    "editor.fontWeight":"500",
+    "editor.fontSize": 12,  
+    "editor.tabSize": 4,
+    "editor.lineHeight": 0,
+    "editor.cursorStyle": "line",
+    "editor.lineNumbers": "on",
+    "editor.quickSuggestions": true,
+    "editor.quickSuggestionsDelay": 10,
+    "editor.parameterHints": true,
+    "editor.insertSpaces": true,
+    "editor.autoClosingBrackets": true,
+    "editor.codeLens": true,
+     "editor.matchBrackets": true,
+      "files.autoSave": "afterDelay",
+     "files.autoSaveDelay": 1500,
+     "files.exclude": {
+                            "**/.git": true,
+                            "**/.svn": true,
+                            "**/.hg": true,
+                            "**/.DS_Store": true
+                    },                
+     "emmet.triggerExpansionOnTab": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.visible": true,
+    "vsicons.projectDetection.autoReload": true,
+    "vsicons.presets.angular": false
+}
