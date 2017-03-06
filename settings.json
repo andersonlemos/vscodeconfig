@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "'Ubuntu Light','DejaVu Sans',Cantarell,'Sans Serif',Consolas",
+    "editor.fontFamily": "Ubuntu,'Ubuntu Light','DejaVu Sans',Cantarell,'Sans Serif',Consolas",
     "editor.fontWeight":"500",
     "editor.fontSize": 12,  
     "editor.tabSize": 4,
