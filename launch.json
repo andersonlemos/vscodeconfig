@@ -5,6 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Launch firefox",
+            "url": "http://localhost:8081",
+            "webRoot": "${workspaceRoot}"
+        },
+         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "url": "http://localhost:8081",
+            "webRoot": "${workspaceRoot}"
+        },
+        {
             "type": "node",
             "request": "launch",
             "name": "Launch via NPM",
@@ -13,10 +28,9 @@
                 "runtimeExecutable": "npm.cmd"
             },
             "runtimeArgs": [
-                "run",
-                "dev"
+                "run","dev"               
             ],
-            "port":5856
+            "port":5658
         }       
     ],
         "externalConsole":false

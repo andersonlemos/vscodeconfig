@@ -1,8 +1,8 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Ubuntu,'Ubuntu Light','DejaVu Sans',Cantarell,'Sans Serif',Consolas",
+    "editor.fontFamily": "'Ubuntu,'Ubuntu Light','DejaVu Sans',Cantarell,'Sans Serif',Consolas",
     "editor.fontWeight":"500",
-    "editor.fontSize": 12,  
+    "editor.fontSize": 14,  
     "editor.tabSize": 4,
     "editor.lineHeight": 0,
     "editor.cursorStyle": "line",
@@ -15,7 +15,7 @@
     "editor.codeLens": true,
      "editor.matchBrackets": true,
       "files.autoSave": "afterDelay",
-     "files.autoSaveDelay": 1500,
+     "files.autoSaveDelay":2000,
      "files.exclude": {
                             "**/.git": true,
                             "**/.svn": true,
